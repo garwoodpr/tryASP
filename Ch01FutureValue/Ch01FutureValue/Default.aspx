@@ -21,7 +21,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        <img alt="Murach" class="style1" src="Images/MurachLogo.jpg"  /><br />
+        <img alt="Murach" class="style1" src="Images/jjcLogo.jpg"  /><br />
         <h1>401K Future Value Calculator</h1>
         <table class="style2">
             <tr>
