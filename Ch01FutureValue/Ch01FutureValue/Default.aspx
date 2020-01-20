@@ -8,7 +8,7 @@
     <style type="text/css">
         .style1 {
             width: 150px;
-            height: 65px;
+            height: 150px;
         }
         .style2 {
             width: 100%;
@@ -21,7 +21,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        <img alt="Murach" class="style1" src="Images/jjcLogo.jpg"  /><br />
+        <img alt="JJC Logo" class="style1" src="Images/jjcLogo.PNG"  /><br />
         <h1>401K Future Value Calculator</h1>
         <table class="style2">
             <tr>
